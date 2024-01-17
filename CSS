@@ -1,1 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+.section {
+    position: relative;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.section-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #FFD700;
+    color: black;
+    padding: 5px;
+    border: 1px solid black;
+}
 
